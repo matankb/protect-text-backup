@@ -1,0 +1,16 @@
+{
+  "name": "protected-text-backup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "backup.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cryptr": "^6.0.2",
+    "ora": "^6.0.1",
+    "prompts": "^2.4.2",
+    "puppeteer": "^13.0.0"
+  },
+  "type": "module"
+}
