@@ -5,7 +5,7 @@
 ## Usage
 ```bash
 node backup <site>
-node backup --descrypt
+node backup --decrypt
 ```
 
 *Not affiliated with ProtectedText.com in any way*
